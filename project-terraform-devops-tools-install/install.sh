@@ -27,7 +27,9 @@ sudo yum -y install terraform
 
 #---------------------------------install tomcat------------------
 #sudo wget url https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.83/bin/apache-tomcat-9.0.83.tar.gz
-#sudo tar -xvzf apache-tomcat-9.0.83.tar.gz #untar
+#sudo tar -xvzf apache-tomcat-9.0.83.tar.gz #untar   tar -xvzf apache-tomcat-9.0.102.tar.gz    # When you get any error you need to exctract the file 
+see the verion of the Tomcat so acording to that change and run.
+
 #cd apache-tomcat-9.0.83
 #cd bin
 #chmod +x startup.sh
